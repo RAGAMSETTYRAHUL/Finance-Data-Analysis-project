@@ -1,0 +1,501 @@
+Transaction_ID,Customer_ID,Transaction_Date,Amount,Payment_Method,Category,Merchant
+1,CUST032,2023-04-27,2281.4,Debit Card,Restaurants,BestBuy
+2,CUST034,2023-01-24,449.21,PayPal,Clothing,Amazon
+3,CUST036,2023-01-27,1702.38,Cash,Electronics,BestBuy
+4,CUST038,2023-11-08,3579.98,UPI,Healthcare,Starbucks
+5,CUST013,2023-03-28,1667.74,Net Banking,Healthcare,BestBuy
+6,CUST044,2023-01-05,1334.98,Credit Card,Electronics,Starbucks
+7,CUST018,2023-02-05,500.55,Cash,Healthcare,BestBuy
+8,CUST008,2023-09-28,3125.84,UPI,Healthcare,Nike
+9,CUST027,2023-11-28,4564.92,Debit Card,Clothing,Amazon
+10,CUST047,2023-12-23,1179.35,UPI,Clothing,Walmart
+11,CUST013,2023-09-20,656.73,Net Banking,Electronics,Starbucks
+12,CUST022,2023-02-14,3457.46,UPI,Healthcare,Walmart
+13,CUST032,2023-05-20,3653.03,Net Banking,Electronics,Amazon
+14,CUST012,2023-05-06,2904.29,Credit Card,Electronics,Starbucks
+15,CUST016,2023-01-13,2449.95,Debit Card,Entertainment,Nike
+16,CUST020,2023-09-09,1238.07,UPI,Clothing,Netflix
+17,CUST021,2023-11-28,4708.89,Cash,Restaurants,BestBuy
+18,CUST040,2023-05-05,3424.72,Credit Card,Restaurants,Netflix
+19,CUST017,2023-01-23,1310.57,UPI,Entertainment,Amazon
+20,CUST033,2023-07-28,2138.8,Credit Card,Clothing,Walmart
+21,CUST003,2023-03-22,1965.62,Cash,Electronics,Pharmacy
+22,CUST017,2023-10-03,3256.73,UPI,Clothing,Starbucks
+23,CUST004,2023-07-24,1053.94,Cash,Entertainment,BestBuy
+24,CUST014,2023-04-22,1920.67,Credit Card,Healthcare,Pharmacy
+25,CUST007,2023-12-28,4682.93,Credit Card,Healthcare,BestBuy
+26,CUST046,2023-02-06,2003.22,Net Banking,Healthcare,Pharmacy
+27,CUST034,2023-03-08,2186.68,PayPal,Entertainment,Nike
+28,CUST010,2023-01-03,1544.59,Debit Card,Clothing,Walmart
+29,CUST049,2023-01-31,3136.21,Credit Card,Electronics,Starbucks
+30,CUST023,2023-02-25,4795.1,Debit Card,Healthcare,Netflix
+31,CUST025,2023-04-05,1388.47,Net Banking,Electronics,Netflix
+32,CUST013,2023-12-07,4413.54,Credit Card,Clothing,Pharmacy
+33,CUST042,2023-11-22,3475.63,Cash,Groceries,Starbucks
+34,CUST040,2023-07-06,3956.87,PayPal,Entertainment,Starbucks
+35,CUST040,2023-06-29,2670.16,Net Banking,Electronics,BestBuy
+36,CUST044,2023-05-25,4252.72,Debit Card,Entertainment,Walmart
+37,CUST018,2023-03-30,2116.14,Credit Card,Restaurants,Starbucks
+38,CUST019,2023-11-20,2094.95,Net Banking,Clothing,BestBuy
+39,CUST008,2023-10-13,145.41,Net Banking,Healthcare,Netflix
+40,CUST040,2023-01-20,4065.25,PayPal,Clothing,Nike
+41,CUST023,2023-11-27,1567.28,Cash,Entertainment,BestBuy
+42,CUST043,2023-10-01,1092.31,Debit Card,Clothing,Pharmacy
+43,CUST002,2023-12-28,2971.89,UPI,Clothing,BestBuy
+44,CUST023,2023-08-26,4846.28,Debit Card,Groceries,Starbucks
+45,CUST007,2023-12-31,1461.16,Cash,Entertainment,Amazon
+46,CUST006,2023-06-27,3366.82,Net Banking,Entertainment,Amazon
+47,CUST004,2023-07-22,3121.26,Debit Card,Restaurants,Netflix
+48,CUST029,2023-08-13,350.4,UPI,Healthcare,Amazon
+49,CUST029,2023-05-10,348.02,PayPal,Restaurants,Pharmacy
+50,CUST044,2023-11-12,3233.34,PayPal,Restaurants,Netflix
+51,CUST046,2023-03-17,113.49,Net Banking,Groceries,BestBuy
+52,CUST036,2023-12-20,1776.46,UPI,Restaurants,BestBuy
+53,CUST004,2023-07-03,777.23,Net Banking,Entertainment,Netflix
+54,CUST020,2023-06-12,85.31,Credit Card,Entertainment,Starbucks
+55,CUST030,2023-11-14,3327.2,Credit Card,Groceries,Amazon
+56,CUST040,2023-07-27,4462.86,Debit Card,Electronics,Nike
+57,CUST028,2023-08-25,2111.91,Debit Card,Entertainment,Starbucks
+58,CUST041,2023-07-15,4510.43,Net Banking,Healthcare,Walmart
+59,CUST030,2023-08-11,4920.1,Net Banking,Restaurants,Netflix
+60,CUST045,2023-02-09,3012.23,UPI,Clothing,Walmart
+61,CUST019,2023-03-21,4061.62,PayPal,Electronics,Starbucks
+62,CUST001,2023-12-11,1968.94,Cash,Electronics,Nike
+63,CUST043,2023-09-12,3750.92,Credit Card,Entertainment,Amazon
+64,CUST005,2023-07-15,4726.91,PayPal,Restaurants,Amazon
+65,CUST034,2023-11-17,3934.34,Debit Card,Restaurants,Starbucks
+66,CUST038,2023-08-27,1316.79,Credit Card,Entertainment,BestBuy
+67,CUST050,2023-04-04,4137.05,Credit Card,Entertainment,Walmart
+68,CUST024,2023-03-03,4380.7,Cash,Electronics,Nike
+69,CUST010,2023-05-01,483.28,UPI,Healthcare,BestBuy
+70,CUST018,2023-08-12,173.22,PayPal,Electronics,Amazon
+71,CUST025,2023-03-10,1760.85,Cash,Healthcare,BestBuy
+72,CUST038,2023-03-06,1573.22,Debit Card,Groceries,Pharmacy
+73,CUST022,2023-02-14,2379.28,Debit Card,Clothing,Starbucks
+74,CUST030,2023-06-27,4785.72,Cash,Restaurants,Pharmacy
+75,CUST015,2023-02-26,1431.68,Net Banking,Clothing,Nike
+76,CUST048,2023-04-09,1423.51,Cash,Clothing,Amazon
+77,CUST041,2023-03-01,4885.18,UPI,Electronics,Amazon
+78,CUST033,2023-04-17,4371.2,UPI,Clothing,Walmart
+79,CUST005,2023-05-06,4647.23,UPI,Clothing,BestBuy
+80,CUST042,2023-07-11,4454.18,PayPal,Entertainment,Starbucks
+81,CUST018,2023-08-14,3440.11,Debit Card,Healthcare,Nike
+82,CUST022,2023-05-03,3670.44,PayPal,Clothing,Nike
+83,CUST005,2023-08-18,147.86,PayPal,Groceries,Amazon
+84,CUST021,2023-12-06,4813.83,Net Banking,Electronics,Pharmacy
+85,CUST009,2023-05-13,3049.89,Debit Card,Entertainment,Pharmacy
+86,CUST034,2023-11-22,1439.34,UPI,Clothing,Walmart
+87,CUST008,2023-04-02,806.15,Debit Card,Groceries,Netflix
+88,CUST011,2023-12-10,738.17,PayPal,Entertainment,Nike
+89,CUST038,2023-03-29,4656.24,Credit Card,Clothing,Starbucks
+90,CUST014,2023-05-06,2337.2,Debit Card,Entertainment,Pharmacy
+91,CUST025,2023-04-23,4156.88,PayPal,Restaurants,Netflix
+92,CUST007,2023-03-27,4072.3,Cash,Groceries,Netflix
+93,CUST044,2023-11-23,1946.72,PayPal,Restaurants,BestBuy
+94,CUST033,2023-04-16,2893.36,PayPal,Groceries,Nike
+95,CUST030,2023-04-17,4045.75,Debit Card,Restaurants,Walmart
+96,CUST039,2023-04-04,3356.14,UPI,Healthcare,Starbucks
+97,CUST026,2023-09-26,2493.71,PayPal,Restaurants,Nike
+98,CUST031,2023-01-30,4304.46,UPI,Entertainment,Walmart
+99,CUST039,2023-03-06,224.96,UPI,Healthcare,Netflix
+100,CUST035,2023-06-03,1706.0,Cash,Restaurants,Starbucks
+101,CUST050,2023-07-08,4603.88,Cash,Groceries,Amazon
+102,CUST013,2023-11-21,896.95,UPI,Clothing,Pharmacy
+103,CUST012,2023-05-09,1221.35,Net Banking,Restaurants,BestBuy
+104,CUST031,2023-11-28,2925.02,Cash,Electronics,Nike
+105,CUST047,2023-04-08,1225.08,UPI,Entertainment,Starbucks
+106,CUST016,2023-12-05,2153.49,Net Banking,Electronics,Pharmacy
+107,CUST043,2023-02-14,2337.25,Credit Card,Clothing,Starbucks
+108,CUST012,2023-12-06,553.49,Debit Card,Entertainment,Amazon
+109,CUST034,2023-08-08,1570.12,UPI,Groceries,Nike
+110,CUST015,2023-11-04,3385.23,Credit Card,Clothing,Netflix
+111,CUST010,2023-08-27,4170.88,Credit Card,Electronics,Amazon
+112,CUST042,2023-10-16,3449.34,PayPal,Electronics,Walmart
+113,CUST007,2023-11-19,3661.03,Debit Card,Clothing,Pharmacy
+114,CUST015,2023-03-31,4179.61,Debit Card,Restaurants,Walmart
+115,CUST024,2023-04-27,3152.81,UPI,Restaurants,Amazon
+116,CUST043,2023-02-15,2984.84,Credit Card,Restaurants,Netflix
+117,CUST020,2023-05-24,1861.55,Net Banking,Electronics,BestBuy
+118,CUST048,2023-05-20,3640.54,PayPal,Clothing,Walmart
+119,CUST008,2023-12-31,1462.91,PayPal,Clothing,Pharmacy
+120,CUST021,2023-12-18,2243.77,Cash,Entertainment,BestBuy
+121,CUST036,2023-02-15,315.62,UPI,Healthcare,BestBuy
+122,CUST017,2023-11-03,3024.79,Cash,Healthcare,Starbucks
+123,CUST009,2023-03-20,4388.58,Credit Card,Restaurants,Pharmacy
+124,CUST015,2023-10-09,1989.09,PayPal,Entertainment,BestBuy
+125,CUST008,2023-05-12,4832.54,UPI,Electronics,Starbucks
+126,CUST024,2023-12-19,4560.65,UPI,Restaurants,Amazon
+127,CUST035,2023-10-26,3782.06,Cash,Entertainment,Starbucks
+128,CUST028,2023-07-08,1563.38,PayPal,Groceries,BestBuy
+129,CUST010,2023-02-27,1449.26,Cash,Electronics,Pharmacy
+130,CUST034,2023-04-09,4951.76,PayPal,Electronics,Starbucks
+131,CUST050,2023-11-30,2006.88,Credit Card,Entertainment,Walmart
+132,CUST037,2023-07-19,3073.42,Credit Card,Entertainment,Starbucks
+133,CUST008,2023-07-02,1011.04,UPI,Electronics,Starbucks
+134,CUST005,2023-11-05,1390.03,Cash,Restaurants,Nike
+135,CUST015,2023-03-09,3300.63,UPI,Groceries,BestBuy
+136,CUST040,2023-10-04,4812.7,UPI,Clothing,Amazon
+137,CUST012,2023-05-29,4002.67,PayPal,Clothing,Walmart
+138,CUST044,2023-06-07,2061.62,PayPal,Electronics,Pharmacy
+139,CUST037,2023-12-25,3494.48,UPI,Electronics,Walmart
+140,CUST012,2023-01-14,3838.01,Debit Card,Restaurants,Walmart
+141,CUST007,2023-10-27,1968.53,PayPal,Entertainment,Pharmacy
+142,CUST044,2023-06-02,4115.66,Credit Card,Restaurants,Nike
+143,CUST007,2023-06-23,1329.3,Credit Card,Groceries,Starbucks
+144,CUST026,2023-08-03,293.76,Debit Card,Groceries,Starbucks
+145,CUST012,2023-11-20,1719.34,UPI,Entertainment,Walmart
+146,CUST023,2023-12-27,4008.2,Debit Card,Healthcare,Pharmacy
+147,CUST032,2023-02-04,555.03,Credit Card,Healthcare,Starbucks
+148,CUST049,2023-05-14,2659.8,Credit Card,Electronics,Pharmacy
+149,CUST021,2023-09-04,3225.7,UPI,Groceries,Pharmacy
+150,CUST030,2023-06-20,297.35,Cash,Electronics,Walmart
+151,CUST020,2023-07-10,398.1,Credit Card,Entertainment,Amazon
+152,CUST041,2023-01-08,2957.29,Cash,Restaurants,Netflix
+153,CUST028,2023-03-24,3096.14,Debit Card,Electronics,BestBuy
+154,CUST004,2023-01-13,1843.34,Net Banking,Healthcare,Walmart
+155,CUST040,2023-09-06,2208.0,UPI,Clothing,Nike
+156,CUST009,2023-04-09,4200.61,Debit Card,Restaurants,Netflix
+157,CUST028,2023-09-29,1911.34,Net Banking,Clothing,Starbucks
+158,CUST035,2023-04-07,2551.93,PayPal,Restaurants,Walmart
+159,CUST037,2023-09-07,3672.26,UPI,Clothing,Walmart
+160,CUST021,2023-11-04,507.14,Cash,Clothing,Walmart
+161,CUST003,2023-06-29,561.81,Credit Card,Clothing,Pharmacy
+162,CUST038,2023-03-12,4500.98,UPI,Clothing,Pharmacy
+163,CUST031,2023-02-20,1052.05,UPI,Clothing,Netflix
+164,CUST026,2023-12-25,4895.3,Credit Card,Groceries,Pharmacy
+165,CUST021,2023-01-04,3691.21,Credit Card,Groceries,Amazon
+166,CUST037,2023-11-03,4205.36,Debit Card,Healthcare,Starbucks
+167,CUST015,2023-07-24,3609.76,Cash,Clothing,Pharmacy
+168,CUST014,2023-07-25,3355.59,Credit Card,Restaurants,Nike
+169,CUST047,2023-01-02,3664.86,Net Banking,Electronics,Starbucks
+170,CUST026,2023-10-09,4859.45,UPI,Clothing,Walmart
+171,CUST048,2023-10-21,839.33,Net Banking,Healthcare,BestBuy
+172,CUST037,2023-06-18,4228.91,Net Banking,Entertainment,Walmart
+173,CUST011,2023-02-07,420.74,Net Banking,Clothing,Nike
+174,CUST026,2023-05-27,828.14,Cash,Groceries,Starbucks
+175,CUST004,2023-05-27,4716.38,Credit Card,Entertainment,Starbucks
+176,CUST007,2023-03-06,2583.26,UPI,Electronics,Netflix
+177,CUST016,2023-01-28,4885.81,PayPal,Groceries,Walmart
+178,CUST003,2023-08-27,1220.56,UPI,Electronics,Netflix
+179,CUST027,2023-09-06,3000.91,Debit Card,Electronics,Starbucks
+180,CUST036,2023-12-08,766.78,Cash,Healthcare,Amazon
+181,CUST017,2023-01-04,1667.39,PayPal,Entertainment,BestBuy
+182,CUST037,2023-01-10,3241.65,PayPal,Clothing,Amazon
+183,CUST042,2023-11-01,1113.36,Net Banking,Electronics,BestBuy
+184,CUST008,2023-01-12,1253.36,Net Banking,Entertainment,BestBuy
+185,CUST017,2023-08-14,4608.59,Credit Card,Healthcare,Pharmacy
+186,CUST028,2023-04-18,3808.25,Credit Card,Groceries,Netflix
+187,CUST015,2023-02-24,1703.72,Credit Card,Clothing,Starbucks
+188,CUST027,2023-08-20,3594.29,Net Banking,Groceries,Walmart
+189,CUST035,2023-09-24,584.86,Debit Card,Electronics,Nike
+190,CUST018,2023-06-22,1084.23,Net Banking,Healthcare,Starbucks
+191,CUST036,2023-07-31,4482.22,Debit Card,Groceries,Netflix
+192,CUST026,2023-02-21,1869.79,Credit Card,Electronics,BestBuy
+193,CUST045,2023-11-25,4444.96,UPI,Electronics,Amazon
+194,CUST014,2023-01-25,585.22,Cash,Clothing,BestBuy
+195,CUST006,2023-08-17,4810.4,Debit Card,Restaurants,Pharmacy
+196,CUST020,2023-08-02,2588.66,Cash,Entertainment,Starbucks
+197,CUST022,2023-02-20,2246.7,PayPal,Restaurants,Netflix
+198,CUST002,2023-08-06,3904.01,Net Banking,Electronics,Amazon
+199,CUST022,2023-04-15,4648.24,Net Banking,Restaurants,Amazon
+200,CUST050,2023-01-02,3834.57,UPI,Clothing,BestBuy
+201,CUST045,2023-12-19,535.89,UPI,Healthcare,Walmart
+202,CUST033,2023-12-20,4359.57,Credit Card,Entertainment,Pharmacy
+203,CUST005,2023-05-06,4114.04,Cash,Groceries,BestBuy
+204,CUST009,2023-01-10,3455.45,Cash,Clothing,Nike
+205,CUST046,2023-01-12,1860.41,Credit Card,Restaurants,BestBuy
+206,CUST023,2023-03-12,3837.94,UPI,Healthcare,Starbucks
+207,CUST045,2023-08-06,538.52,Cash,Restaurants,Walmart
+208,CUST048,2023-01-26,1890.44,Debit Card,Electronics,Nike
+209,CUST022,2023-03-20,4590.19,Credit Card,Restaurants,BestBuy
+210,CUST003,2023-08-20,4988.31,Debit Card,Electronics,Netflix
+211,CUST038,2023-04-19,3975.31,PayPal,Restaurants,Nike
+212,CUST015,2023-02-21,4001.36,Net Banking,Restaurants,Amazon
+213,CUST004,2023-09-10,993.53,Cash,Electronics,Nike
+214,CUST017,2023-07-20,3086.76,Credit Card,Restaurants,Netflix
+215,CUST049,2023-05-07,1552.27,Cash,Clothing,Amazon
+216,CUST020,2023-04-04,2102.86,Credit Card,Restaurants,Pharmacy
+217,CUST038,2023-09-24,4983.97,UPI,Clothing,BestBuy
+218,CUST030,2023-01-23,841.9,UPI,Electronics,Nike
+219,CUST034,2023-11-14,2541.82,Net Banking,Clothing,Nike
+220,CUST028,2023-05-22,1718.63,Cash,Entertainment,Nike
+221,CUST002,2023-02-14,3207.24,PayPal,Healthcare,BestBuy
+222,CUST043,2023-02-03,1423.79,Debit Card,Electronics,Netflix
+223,CUST024,2023-07-30,676.19,UPI,Healthcare,Amazon
+224,CUST037,2023-12-24,111.26,Credit Card,Clothing,Starbucks
+225,CUST005,2023-03-14,3892.21,Net Banking,Entertainment,BestBuy
+226,CUST003,2023-01-06,1297.51,Debit Card,Clothing,Amazon
+227,CUST032,2023-07-29,4959.23,Net Banking,Groceries,BestBuy
+228,CUST018,2023-12-18,3891.55,Credit Card,Electronics,Walmart
+229,CUST005,2023-05-15,3313.31,Cash,Restaurants,Pharmacy
+230,CUST043,2023-12-19,4823.46,PayPal,Restaurants,Starbucks
+231,CUST039,2023-11-01,2656.81,Credit Card,Healthcare,Netflix
+232,CUST019,2023-11-27,2399.1,Net Banking,Entertainment,Netflix
+233,CUST039,2023-04-22,4528.56,Cash,Healthcare,Netflix
+234,CUST030,2023-07-11,3384.77,Cash,Groceries,Nike
+235,CUST028,2023-03-05,2608.24,UPI,Clothing,Amazon
+236,CUST007,2023-11-25,2245.74,Debit Card,Restaurants,Nike
+237,CUST024,2023-01-10,3592.12,Credit Card,Entertainment,Walmart
+238,CUST030,2023-01-18,2925.35,Debit Card,Groceries,Pharmacy
+239,CUST011,2023-04-09,1589.16,Cash,Electronics,Amazon
+240,CUST047,2023-02-09,3020.56,Credit Card,Electronics,Starbucks
+241,CUST044,2023-10-09,1902.11,UPI,Groceries,BestBuy
+242,CUST026,2023-06-10,4200.91,Debit Card,Electronics,BestBuy
+243,CUST036,2023-11-07,1910.71,Cash,Electronics,Nike
+244,CUST030,2023-01-31,184.58,Debit Card,Groceries,Nike
+245,CUST007,2023-10-07,2803.42,Cash,Electronics,BestBuy
+246,CUST046,2023-01-01,4623.95,Credit Card,Entertainment,Amazon
+247,CUST043,2023-08-05,483.38,Cash,Clothing,Nike
+248,CUST031,2023-04-13,3058.27,UPI,Groceries,BestBuy
+249,CUST012,2023-11-09,3979.51,UPI,Healthcare,Netflix
+250,CUST041,2023-08-02,848.88,UPI,Electronics,Starbucks
+251,CUST002,2023-03-17,2653.32,Credit Card,Electronics,Amazon
+252,CUST030,2023-02-16,4201.33,Net Banking,Groceries,Netflix
+253,CUST007,2023-07-21,1674.87,Debit Card,Restaurants,Nike
+254,CUST026,2023-08-01,2880.72,Credit Card,Clothing,Starbucks
+255,CUST020,2023-03-12,2760.84,Credit Card,Restaurants,BestBuy
+256,CUST041,2023-06-07,4748.49,Net Banking,Groceries,Amazon
+257,CUST012,2023-11-04,4325.13,Cash,Healthcare,BestBuy
+258,CUST014,2023-12-06,3948.51,Debit Card,Electronics,Walmart
+259,CUST019,2023-10-03,2730.9,Cash,Clothing,Amazon
+260,CUST011,2023-05-29,4162.23,Credit Card,Groceries,BestBuy
+261,CUST032,2023-08-02,1499.27,Debit Card,Groceries,Nike
+262,CUST028,2023-04-25,1574.61,Cash,Clothing,BestBuy
+263,CUST013,2023-08-29,55.47,PayPal,Restaurants,Starbucks
+264,CUST050,2023-07-31,1033.39,Debit Card,Healthcare,Nike
+265,CUST026,2023-11-29,321.64,Cash,Clothing,Pharmacy
+266,CUST050,2023-07-03,2386.46,UPI,Healthcare,Nike
+267,CUST037,2023-07-18,3333.23,Cash,Clothing,Amazon
+268,CUST005,2023-05-12,1321.65,Debit Card,Restaurants,Walmart
+269,CUST033,2023-11-29,4166.56,UPI,Groceries,Amazon
+270,CUST021,2023-05-30,1095.88,UPI,Entertainment,Pharmacy
+271,CUST039,2023-06-12,2950.23,Credit Card,Healthcare,Amazon
+272,CUST031,2023-04-22,754.48,PayPal,Healthcare,Pharmacy
+273,CUST008,2023-03-17,3777.91,PayPal,Healthcare,Starbucks
+274,CUST021,2023-05-28,400.05,Credit Card,Entertainment,Walmart
+275,CUST009,2023-06-24,3797.61,Credit Card,Entertainment,Walmart
+276,CUST025,2023-01-24,4054.33,Credit Card,Healthcare,Netflix
+277,CUST018,2023-06-02,4256.01,PayPal,Healthcare,Walmart
+278,CUST016,2023-05-12,641.27,PayPal,Entertainment,Netflix
+279,CUST042,2023-05-08,3361.88,Net Banking,Groceries,Pharmacy
+280,CUST048,2023-10-09,1873.05,Cash,Clothing,Netflix
+281,CUST025,2023-05-28,397.32,Cash,Entertainment,Walmart
+282,CUST014,2023-07-11,1064.65,Credit Card,Healthcare,Nike
+283,CUST045,2023-04-23,3852.09,UPI,Healthcare,Starbucks
+284,CUST033,2023-06-07,2568.5,Net Banking,Electronics,Starbucks
+285,CUST016,2023-02-03,4607.73,UPI,Restaurants,Nike
+286,CUST035,2023-06-22,2454.31,Debit Card,Electronics,Netflix
+287,CUST008,2023-02-19,1243.6,PayPal,Entertainment,Amazon
+288,CUST042,2023-11-11,1283.9,Net Banking,Electronics,Pharmacy
+289,CUST002,2023-09-25,1016.85,PayPal,Healthcare,BestBuy
+290,CUST030,2023-12-14,2404.78,Debit Card,Clothing,Pharmacy
+291,CUST028,2023-11-22,2318.51,Cash,Clothing,Starbucks
+292,CUST004,2023-10-29,3376.61,Debit Card,Clothing,BestBuy
+293,CUST017,2023-04-10,3929.25,Credit Card,Restaurants,Amazon
+294,CUST013,2023-07-13,4646.34,Cash,Clothing,Netflix
+295,CUST001,2023-08-28,3100.0,Cash,Electronics,Netflix
+296,CUST030,2023-10-31,428.12,Credit Card,Clothing,Walmart
+297,CUST037,2023-09-15,1245.39,Debit Card,Entertainment,BestBuy
+298,CUST042,2023-04-18,203.39,Net Banking,Groceries,Nike
+299,CUST021,2023-09-20,3363.58,PayPal,Entertainment,Walmart
+300,CUST031,2023-09-02,2198.07,UPI,Restaurants,Nike
+301,CUST023,2023-11-08,1899.72,PayPal,Groceries,Walmart
+302,CUST019,2023-02-22,2965.53,Net Banking,Groceries,Starbucks
+303,CUST017,2023-07-26,2392.16,Cash,Clothing,Amazon
+304,CUST014,2023-09-16,1770.2,Debit Card,Entertainment,Pharmacy
+305,CUST043,2023-09-26,2244.79,Debit Card,Groceries,Nike
+306,CUST018,2023-02-23,4985.52,Credit Card,Restaurants,Walmart
+307,CUST031,2023-01-09,143.46,Debit Card,Groceries,Nike
+308,CUST050,2023-04-25,1064.8,Debit Card,Groceries,Nike
+309,CUST032,2023-07-13,2585.81,UPI,Clothing,Nike
+310,CUST018,2023-08-24,4833.64,Net Banking,Restaurants,Amazon
+311,CUST046,2023-02-01,2359.99,Net Banking,Groceries,Amazon
+312,CUST049,2023-02-26,2603.95,UPI,Clothing,Amazon
+313,CUST008,2023-08-05,4418.71,Cash,Groceries,Walmart
+314,CUST033,2023-05-22,714.66,UPI,Entertainment,BestBuy
+315,CUST031,2023-08-14,1534.92,Net Banking,Entertainment,Amazon
+316,CUST050,2023-07-06,853.15,Net Banking,Entertainment,Amazon
+317,CUST043,2023-05-14,2838.17,Credit Card,Healthcare,Walmart
+318,CUST010,2023-09-30,759.91,Debit Card,Electronics,BestBuy
+319,CUST010,2023-02-10,2205.24,Debit Card,Groceries,BestBuy
+320,CUST043,2023-01-16,1401.89,PayPal,Clothing,Amazon
+321,CUST017,2023-02-23,1347.04,UPI,Restaurants,Nike
+322,CUST039,2023-05-22,2374.42,Debit Card,Restaurants,Amazon
+323,CUST044,2023-11-25,2318.41,Debit Card,Restaurants,Nike
+324,CUST031,2023-04-14,4355.25,Debit Card,Restaurants,Pharmacy
+325,CUST001,2023-07-17,111.12,PayPal,Groceries,Amazon
+326,CUST002,2023-11-17,4551.99,PayPal,Groceries,Amazon
+327,CUST029,2023-05-07,2435.1,UPI,Electronics,Starbucks
+328,CUST005,2023-11-08,1083.27,PayPal,Electronics,BestBuy
+329,CUST026,2023-01-02,3990.15,Debit Card,Healthcare,BestBuy
+330,CUST022,2023-10-20,1204.98,Credit Card,Clothing,Nike
+331,CUST006,2023-10-22,3394.48,PayPal,Healthcare,Starbucks
+332,CUST041,2023-11-13,3403.86,Cash,Groceries,Walmart
+333,CUST031,2023-12-10,2756.89,Net Banking,Healthcare,Netflix
+334,CUST013,2023-04-26,2910.34,Net Banking,Healthcare,Amazon
+335,CUST038,2023-12-24,888.1,Net Banking,Clothing,Nike
+336,CUST026,2023-12-16,980.06,UPI,Electronics,Pharmacy
+337,CUST033,2023-01-13,3558.82,Cash,Restaurants,Walmart
+338,CUST038,2023-10-15,1615.94,UPI,Clothing,Walmart
+339,CUST049,2023-06-12,1158.44,Debit Card,Entertainment,Starbucks
+340,CUST028,2023-01-29,3851.68,Net Banking,Entertainment,BestBuy
+341,CUST008,2023-10-25,4447.05,Net Banking,Groceries,Nike
+342,CUST041,2023-02-20,3389.24,Debit Card,Restaurants,BestBuy
+343,CUST012,2023-04-07,638.97,Credit Card,Healthcare,Pharmacy
+344,CUST011,2023-10-06,3849.41,Cash,Restaurants,Walmart
+345,CUST046,2023-12-22,4044.56,Cash,Entertainment,Walmart
+346,CUST048,2023-12-30,2202.47,Net Banking,Clothing,Pharmacy
+347,CUST022,2023-11-08,3624.75,Debit Card,Entertainment,Pharmacy
+348,CUST021,2023-05-15,2730.62,Debit Card,Electronics,Netflix
+349,CUST011,2023-04-17,3942.94,PayPal,Groceries,Netflix
+350,CUST007,2023-01-11,3226.25,Net Banking,Restaurants,Starbucks
+351,CUST002,2023-10-29,346.36,Debit Card,Electronics,Nike
+352,CUST048,2023-10-10,431.02,Debit Card,Groceries,Pharmacy
+353,CUST028,2023-07-09,4867.45,Net Banking,Electronics,Starbucks
+354,CUST006,2023-12-20,2389.94,PayPal,Groceries,Starbucks
+355,CUST019,2023-04-13,4396.74,PayPal,Clothing,Starbucks
+356,CUST047,2023-02-03,1435.97,Debit Card,Healthcare,Amazon
+357,CUST016,2023-02-05,4584.26,Credit Card,Groceries,Pharmacy
+358,CUST043,2023-03-26,2452.56,Cash,Groceries,BestBuy
+359,CUST013,2023-09-21,4613.34,UPI,Clothing,Starbucks
+360,CUST042,2023-01-06,2407.98,Debit Card,Groceries,Amazon
+361,CUST004,2023-12-06,3357.77,Net Banking,Healthcare,Pharmacy
+362,CUST004,2023-04-23,2801.81,Net Banking,Healthcare,Pharmacy
+363,CUST013,2023-04-07,215.71,Credit Card,Electronics,Starbucks
+364,CUST016,2023-03-12,1420.21,Net Banking,Entertainment,Pharmacy
+365,CUST039,2023-10-12,827.13,Credit Card,Entertainment,Amazon
+366,CUST026,2023-07-29,4040.29,Net Banking,Electronics,Pharmacy
+367,CUST040,2023-09-24,4653.13,Net Banking,Electronics,Pharmacy
+368,CUST006,2023-01-24,2861.73,Net Banking,Groceries,Walmart
+369,CUST047,2023-09-19,1974.4,UPI,Healthcare,Pharmacy
+370,CUST034,2023-11-08,2246.21,PayPal,Healthcare,Walmart
+371,CUST021,2023-07-27,3547.86,Cash,Entertainment,Amazon
+372,CUST003,2023-10-09,3599.79,Cash,Entertainment,Amazon
+373,CUST039,2023-12-07,1585.37,Debit Card,Restaurants,Pharmacy
+374,CUST024,2023-09-14,1604.65,Cash,Electronics,BestBuy
+375,CUST005,2023-04-27,4763.35,Debit Card,Entertainment,Walmart
+376,CUST017,2023-11-17,2179.38,Debit Card,Groceries,Walmart
+377,CUST001,2023-08-20,91.69,PayPal,Clothing,BestBuy
+378,CUST016,2023-11-20,4815.4,Debit Card,Healthcare,Starbucks
+379,CUST045,2023-09-17,123.44,Cash,Entertainment,Walmart
+380,CUST032,2023-12-06,2683.41,Net Banking,Entertainment,Nike
+381,CUST044,2023-07-17,3329.06,Cash,Entertainment,Starbucks
+382,CUST020,2023-06-23,2602.54,Debit Card,Electronics,Nike
+383,CUST022,2023-07-15,3619.72,PayPal,Healthcare,Starbucks
+384,CUST024,2023-09-10,2470.11,Net Banking,Groceries,BestBuy
+385,CUST002,2023-06-16,1092.28,Net Banking,Electronics,Pharmacy
+386,CUST010,2023-11-25,4987.89,PayPal,Groceries,Walmart
+387,CUST017,2023-09-10,1668.18,Debit Card,Groceries,Pharmacy
+388,CUST040,2023-03-02,3889.56,UPI,Restaurants,Netflix
+389,CUST044,2023-12-26,3221.76,Cash,Restaurants,Pharmacy
+390,CUST045,2023-05-13,4449.51,Credit Card,Healthcare,Starbucks
+391,CUST036,2023-02-11,1977.31,Debit Card,Healthcare,Pharmacy
+392,CUST019,2023-07-18,2404.13,Debit Card,Entertainment,BestBuy
+393,CUST044,2023-07-12,2706.6,Credit Card,Entertainment,Pharmacy
+394,CUST012,2023-11-12,1437.8,Credit Card,Entertainment,Amazon
+395,CUST046,2023-08-16,71.88,PayPal,Healthcare,Pharmacy
+396,CUST003,2023-01-29,3310.57,UPI,Electronics,Amazon
+397,CUST005,2023-08-08,2305.16,Cash,Entertainment,BestBuy
+398,CUST046,2023-11-01,4888.49,Net Banking,Groceries,Pharmacy
+399,CUST015,2023-06-20,4458.75,Credit Card,Entertainment,Netflix
+400,CUST007,2023-05-29,3106.75,Cash,Healthcare,Amazon
+401,CUST008,2023-09-15,552.55,PayPal,Clothing,Pharmacy
+402,CUST021,2023-05-30,1717.01,Cash,Groceries,BestBuy
+403,CUST012,2023-04-18,2182.55,Cash,Healthcare,Netflix
+404,CUST016,2023-07-12,4330.06,Debit Card,Restaurants,Pharmacy
+405,CUST038,2023-10-28,3546.38,Cash,Restaurants,Amazon
+406,CUST028,2023-08-17,3196.53,Debit Card,Clothing,Pharmacy
+407,CUST004,2023-06-23,4740.77,Credit Card,Healthcare,Walmart
+408,CUST027,2023-01-21,4319.07,Net Banking,Groceries,Walmart
+409,CUST027,2023-01-26,4917.91,PayPal,Restaurants,Netflix
+410,CUST021,2023-07-01,3674.62,Credit Card,Clothing,BestBuy
+411,CUST022,2023-05-27,1840.5,PayPal,Healthcare,BestBuy
+412,CUST012,2023-09-27,4999.69,UPI,Restaurants,Walmart
+413,CUST049,2023-02-13,1121.4,UPI,Healthcare,Nike
+414,CUST009,2023-10-19,82.34,Cash,Electronics,Netflix
+415,CUST022,2023-01-05,2607.88,PayPal,Restaurants,Pharmacy
+416,CUST041,2023-06-09,2526.41,Debit Card,Restaurants,Walmart
+417,CUST046,2023-11-21,210.56,Credit Card,Entertainment,Netflix
+418,CUST010,2023-01-28,4668.48,UPI,Clothing,Starbucks
+419,CUST041,2023-07-31,865.14,Net Banking,Electronics,Nike
+420,CUST009,2023-12-13,1590.37,UPI,Entertainment,Starbucks
+421,CUST009,2023-07-02,4671.33,Credit Card,Restaurants,BestBuy
+422,CUST048,2023-03-13,1538.98,Net Banking,Clothing,Starbucks
+423,CUST013,2023-06-06,4184.76,Credit Card,Restaurants,BestBuy
+424,CUST010,2023-02-28,3756.52,Credit Card,Restaurants,BestBuy
+425,CUST048,2023-11-25,4127.98,Net Banking,Clothing,Walmart
+426,CUST034,2023-06-02,1822.97,PayPal,Healthcare,BestBuy
+427,CUST010,2023-09-30,2171.18,Net Banking,Clothing,Walmart
+428,CUST028,2023-05-24,1989.0,Credit Card,Restaurants,Walmart
+429,CUST003,2023-08-25,2152.47,UPI,Entertainment,Starbucks
+430,CUST032,2023-05-27,4587.63,Net Banking,Groceries,Nike
+431,CUST050,2023-12-01,4789.84,Cash,Electronics,Walmart
+432,CUST041,2023-10-23,1304.76,Net Banking,Healthcare,Netflix
+433,CUST045,2023-12-31,318.68,UPI,Groceries,Nike
+434,CUST046,2023-08-22,4328.78,Cash,Restaurants,Amazon
+435,CUST037,2023-04-25,4596.42,Credit Card,Groceries,Walmart
+436,CUST010,2023-08-30,2939.09,Net Banking,Groceries,Starbucks
+437,CUST020,2023-12-28,2182.97,Credit Card,Groceries,Walmart
+438,CUST012,2023-09-09,3948.29,Cash,Entertainment,Amazon
+439,CUST023,2023-01-09,3605.03,Cash,Groceries,Netflix
+440,CUST050,2023-10-15,594.98,Credit Card,Electronics,Netflix
+441,CUST043,2023-03-12,2346.2,Net Banking,Healthcare,Starbucks
+442,CUST046,2023-02-10,4622.94,Credit Card,Groceries,BestBuy
+443,CUST020,2023-01-01,1437.65,UPI,Restaurants,Walmart
+444,CUST023,2023-11-22,3976.04,PayPal,Clothing,Netflix
+445,CUST035,2023-04-29,1430.96,PayPal,Clothing,Netflix
+446,CUST013,2023-05-05,554.91,Credit Card,Healthcare,Nike
+447,CUST005,2023-07-25,3125.76,Credit Card,Entertainment,Pharmacy
+448,CUST030,2023-08-13,1222.85,Credit Card,Groceries,BestBuy
+449,CUST017,2023-11-07,1183.11,UPI,Clothing,Nike
+450,CUST012,2023-11-21,2504.1,UPI,Electronics,Starbucks
+451,CUST009,2023-12-20,372.41,UPI,Electronics,Nike
+452,CUST016,2023-12-29,3256.37,UPI,Restaurants,Netflix
+453,CUST029,2023-01-27,2055.39,UPI,Clothing,BestBuy
+454,CUST001,2023-12-01,1973.19,Credit Card,Clothing,BestBuy
+455,CUST023,2023-11-28,3142.27,Net Banking,Electronics,Nike
+456,CUST037,2024-01-01,2815.78,UPI,Restaurants,Amazon
+457,CUST038,2023-12-29,376.56,Credit Card,Healthcare,Pharmacy
+458,CUST013,2023-07-09,1709.91,Debit Card,Entertainment,BestBuy
+459,CUST045,2023-06-23,2317.44,PayPal,Clothing,Nike
+460,CUST034,2023-11-27,3459.96,Debit Card,Electronics,Starbucks
+461,CUST015,2023-04-11,1927.33,UPI,Groceries,Walmart
+462,CUST032,2023-03-11,133.32,PayPal,Clothing,Nike
+463,CUST016,2023-09-21,2926.93,Cash,Healthcare,Nike
+464,CUST035,2023-06-11,2286.36,Cash,Groceries,Netflix
+465,CUST026,2023-01-31,382.73,UPI,Entertainment,Amazon
+466,CUST035,2023-03-29,3592.37,PayPal,Clothing,BestBuy
+467,CUST037,2023-05-10,1072.13,PayPal,Restaurants,Nike
+468,CUST018,2023-11-10,4473.0,UPI,Electronics,Starbucks
+469,CUST010,2023-03-12,672.51,Credit Card,Groceries,Starbucks
+470,CUST031,2023-11-22,1848.7,Net Banking,Clothing,Nike
+471,CUST039,2023-11-29,2510.23,Credit Card,Groceries,Walmart
+472,CUST025,2023-12-23,3034.45,Credit Card,Electronics,Amazon
+473,CUST027,2023-05-05,829.02,UPI,Groceries,Amazon
+474,CUST017,2023-02-12,1359.71,Cash,Groceries,Walmart
+475,CUST026,2023-07-12,4756.76,UPI,Healthcare,Pharmacy
+476,CUST026,2023-03-18,1993.48,Debit Card,Groceries,Starbucks
+477,CUST047,2023-03-01,1771.55,Credit Card,Electronics,Nike
+478,CUST025,2023-12-14,1131.91,Debit Card,Entertainment,Nike
+479,CUST005,2023-07-11,323.13,PayPal,Healthcare,Netflix
+480,CUST012,2023-03-08,2643.31,Cash,Restaurants,Walmart
+481,CUST011,2023-07-31,1617.95,Net Banking,Electronics,Nike
+482,CUST036,2023-10-22,1508.77,PayPal,Entertainment,Amazon
+483,CUST030,2023-05-18,4520.18,Credit Card,Groceries,Walmart
+484,CUST040,2023-10-31,3612.4,PayPal,Electronics,Amazon
+485,CUST004,2023-04-15,1723.54,UPI,Clothing,Starbucks
+486,CUST028,2023-06-11,4358.33,UPI,Clothing,Walmart
+487,CUST025,2023-03-25,3919.43,UPI,Restaurants,Pharmacy
+488,CUST025,2023-03-13,3952.54,Net Banking,Entertainment,Pharmacy
+489,CUST049,2023-01-21,4011.01,PayPal,Clothing,BestBuy
+490,CUST028,2023-01-21,925.27,UPI,Groceries,Nike
+491,CUST018,2023-07-26,4236.69,PayPal,Groceries,Amazon
+492,CUST026,2023-05-02,1287.42,PayPal,Restaurants,Starbucks
+493,CUST036,2023-02-21,3628.35,Net Banking,Entertainment,Walmart
+494,CUST014,2023-06-02,814.23,UPI,Clothing,Pharmacy
+495,CUST026,2023-07-27,131.26,Cash,Entertainment,Pharmacy
+496,CUST008,2023-06-11,4731.28,Credit Card,Clothing,Walmart
+497,CUST041,2023-08-04,2623.42,Cash,Clothing,Amazon
+498,CUST032,2023-11-27,3441.24,Credit Card,Electronics,Pharmacy
+499,CUST031,2023-02-20,3832.81,Cash,Electronics,Walmart
+500,CUST038,2023-03-07,174.16,UPI,Clothing,Netflix
